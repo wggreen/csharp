@@ -1,0 +1,11 @@
+C:\Users\William\workspace\csharp\exercises\planetsProbes\bin\Debug\netcoreapp3.1\planetsProbes.exe
+C:\Users\William\workspace\csharp\exercises\planetsProbes\bin\Debug\netcoreapp3.1\planetsProbes.deps.json
+C:\Users\William\workspace\csharp\exercises\planetsProbes\bin\Debug\netcoreapp3.1\planetsProbes.runtimeconfig.json
+C:\Users\William\workspace\csharp\exercises\planetsProbes\bin\Debug\netcoreapp3.1\planetsProbes.runtimeconfig.dev.json
+C:\Users\William\workspace\csharp\exercises\planetsProbes\bin\Debug\netcoreapp3.1\planetsProbes.dll
+C:\Users\William\workspace\csharp\exercises\planetsProbes\bin\Debug\netcoreapp3.1\planetsProbes.pdb
+C:\Users\William\workspace\csharp\exercises\planetsProbes\obj\Debug\netcoreapp3.1\planetsProbes.csprojAssemblyReference.cache
+C:\Users\William\workspace\csharp\exercises\planetsProbes\obj\Debug\netcoreapp3.1\planetsProbes.AssemblyInfoInputs.cache
+C:\Users\William\workspace\csharp\exercises\planetsProbes\obj\Debug\netcoreapp3.1\planetsProbes.AssemblyInfo.cs
+C:\Users\William\workspace\csharp\exercises\planetsProbes\obj\Debug\netcoreapp3.1\planetsProbes.dll
+C:\Users\William\workspace\csharp\exercises\planetsProbes\obj\Debug\netcoreapp3.1\planetsProbes.pdb
