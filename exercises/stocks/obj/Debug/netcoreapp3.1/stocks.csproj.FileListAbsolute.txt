@@ -1,0 +1,11 @@
+C:\Users\William\workspace\csharp\exercises\stocks\bin\Debug\netcoreapp3.1\stocks.exe
+C:\Users\William\workspace\csharp\exercises\stocks\bin\Debug\netcoreapp3.1\stocks.deps.json
+C:\Users\William\workspace\csharp\exercises\stocks\bin\Debug\netcoreapp3.1\stocks.runtimeconfig.json
+C:\Users\William\workspace\csharp\exercises\stocks\bin\Debug\netcoreapp3.1\stocks.runtimeconfig.dev.json
+C:\Users\William\workspace\csharp\exercises\stocks\bin\Debug\netcoreapp3.1\stocks.dll
+C:\Users\William\workspace\csharp\exercises\stocks\bin\Debug\netcoreapp3.1\stocks.pdb
+C:\Users\William\workspace\csharp\exercises\stocks\obj\Debug\netcoreapp3.1\stocks.csprojAssemblyReference.cache
+C:\Users\William\workspace\csharp\exercises\stocks\obj\Debug\netcoreapp3.1\stocks.AssemblyInfoInputs.cache
+C:\Users\William\workspace\csharp\exercises\stocks\obj\Debug\netcoreapp3.1\stocks.AssemblyInfo.cs
+C:\Users\William\workspace\csharp\exercises\stocks\obj\Debug\netcoreapp3.1\stocks.dll
+C:\Users\William\workspace\csharp\exercises\stocks\obj\Debug\netcoreapp3.1\stocks.pdb
