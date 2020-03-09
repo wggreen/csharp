@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Collections.Generic;
 
 namespace linq2
@@ -28,6 +29,22 @@ namespace linq2
             new Customer(){ Name="Tina Fey", Balance=1000000.00, Bank="CITI"},
             new Customer(){ Name="Sid Brown", Balance=49582.68, Bank="CITI"}
             };
+
+            IEnumerable<Customer> millionaires = customers.Where(customer => customer.Balance >= 1000000);
+
+            var millionairesPerBank = millionaires
+                .GroupBy(millionaire => millionaire.Bank);
+
+            foreach (var group in millionairesPerBank)
+            {
+                Console.WriteLine($"{group.Key}: {group.Count()}");
+            }
+            // .ForEach(group =>
+            // {
+            //     Console.WriteLine($"{group.Key}: {group.Count()}");
+            // });
+
+
         }
     }
 }

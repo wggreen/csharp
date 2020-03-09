@@ -1,0 +1,11 @@
+C:\Users\William\workspace\csharp\exercises\inheritance\bin\Debug\netcoreapp3.1\inheritance.exe
+C:\Users\William\workspace\csharp\exercises\inheritance\bin\Debug\netcoreapp3.1\inheritance.deps.json
+C:\Users\William\workspace\csharp\exercises\inheritance\bin\Debug\netcoreapp3.1\inheritance.runtimeconfig.json
+C:\Users\William\workspace\csharp\exercises\inheritance\bin\Debug\netcoreapp3.1\inheritance.runtimeconfig.dev.json
+C:\Users\William\workspace\csharp\exercises\inheritance\bin\Debug\netcoreapp3.1\inheritance.dll
+C:\Users\William\workspace\csharp\exercises\inheritance\bin\Debug\netcoreapp3.1\inheritance.pdb
+C:\Users\William\workspace\csharp\exercises\inheritance\obj\Debug\netcoreapp3.1\inheritance.csprojAssemblyReference.cache
+C:\Users\William\workspace\csharp\exercises\inheritance\obj\Debug\netcoreapp3.1\inheritance.AssemblyInfoInputs.cache
+C:\Users\William\workspace\csharp\exercises\inheritance\obj\Debug\netcoreapp3.1\inheritance.AssemblyInfo.cs
+C:\Users\William\workspace\csharp\exercises\inheritance\obj\Debug\netcoreapp3.1\inheritance.dll
+C:\Users\William\workspace\csharp\exercises\inheritance\obj\Debug\netcoreapp3.1\inheritance.pdb
