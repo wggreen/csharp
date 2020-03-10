@@ -7,7 +7,7 @@ namespace dictionaries
     {
         static void Main(string[] args)
         {
-            // Make a new list
+            // Make a ne    w list
             List<Dictionary<string, string>> dictionaryOfWords = new List<Dictionary<string, string>>();
 
             /*

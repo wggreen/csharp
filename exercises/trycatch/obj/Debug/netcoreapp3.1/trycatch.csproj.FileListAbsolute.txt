@@ -1,0 +1,11 @@
+C:\Users\William\workspace\csharp\exercises\trycatch\obj\Debug\netcoreapp3.1\trycatch.csprojAssemblyReference.cache
+C:\Users\William\workspace\csharp\exercises\trycatch\obj\Debug\netcoreapp3.1\trycatch.AssemblyInfoInputs.cache
+C:\Users\William\workspace\csharp\exercises\trycatch\obj\Debug\netcoreapp3.1\trycatch.AssemblyInfo.cs
+C:\Users\William\workspace\csharp\exercises\trycatch\bin\Debug\netcoreapp3.1\trycatch.exe
+C:\Users\William\workspace\csharp\exercises\trycatch\bin\Debug\netcoreapp3.1\trycatch.deps.json
+C:\Users\William\workspace\csharp\exercises\trycatch\bin\Debug\netcoreapp3.1\trycatch.runtimeconfig.json
+C:\Users\William\workspace\csharp\exercises\trycatch\bin\Debug\netcoreapp3.1\trycatch.runtimeconfig.dev.json
+C:\Users\William\workspace\csharp\exercises\trycatch\bin\Debug\netcoreapp3.1\trycatch.dll
+C:\Users\William\workspace\csharp\exercises\trycatch\bin\Debug\netcoreapp3.1\trycatch.pdb
+C:\Users\William\workspace\csharp\exercises\trycatch\obj\Debug\netcoreapp3.1\trycatch.dll
+C:\Users\William\workspace\csharp\exercises\trycatch\obj\Debug\netcoreapp3.1\trycatch.pdb
