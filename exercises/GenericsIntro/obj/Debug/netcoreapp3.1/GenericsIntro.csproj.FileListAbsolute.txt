@@ -1,0 +1,11 @@
+C:\Users\William\workspace\csharp\exercises\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+C:\Users\William\workspace\csharp\exercises\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+C:\Users\William\workspace\csharp\exercises\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+C:\Users\William\workspace\csharp\exercises\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+C:\Users\William\workspace\csharp\exercises\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+C:\Users\William\workspace\csharp\exercises\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+C:\Users\William\workspace\csharp\exercises\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csprojAssemblyReference.cache
+C:\Users\William\workspace\csharp\exercises\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+C:\Users\William\workspace\csharp\exercises\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+C:\Users\William\workspace\csharp\exercises\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+C:\Users\William\workspace\csharp\exercises\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
